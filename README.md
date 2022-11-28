@@ -12,7 +12,7 @@ To help a medical staffing agency that provides temporary workers to clinics and
 * Assess data limitations that may prevent you from conducting your desired analyses.
 
 ### Tools
-Analysis has been conducted using SQL in pgAdmin - Management Tool for PostgreSQL
+Analysis has been conducted in Excel as well as using SQL in pgAdmin - Management Tool for PostgreSQL
 
 ### Overview of the whole module Preparing & Analyzing Data
 
@@ -25,3 +25,17 @@ Analysis has been conducted using SQL in pgAdmin - Management Tool for PostgreSQ
 * Conducting Statistical Analyses
 * Statistical Hypothesis Testing
 * Consolidating Analytical Insights
+
+### Overview ofthe whole module Data Visualization & Storytelling
+
+* Intro to Data Visualization
+* Visual Design Basics & Tableau
+* Composition & Comparison Charts
+* Temporal Visualizations & Forecasting
+* Statistical Visualizations: Histograms & Box Plots
+* Statistical Visualizations: Scatter Plots & Bubble Charts
+* Spatial Analysis
+* Textual Analysis
+* Storytelling with Data Presentations
+* Presenting Findings to Stakeholders
+
