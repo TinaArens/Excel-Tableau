@@ -14,7 +14,7 @@ To help a medical staffing agency that provides temporary workers to clinics and
 ### Tools
 Analysis has been conducted in Excel as well as using SQL in pgAdmin - Management Tool for PostgreSQL
 
-### Overview of the whole module Preparing & Analyzing Data
+### Overview of the module Preparing & Analyzing Data
 
 * Starting with Requirements
 * Designing a Data Research Project
@@ -26,7 +26,7 @@ Analysis has been conducted in Excel as well as using SQL in pgAdmin - Managemen
 * Statistical Hypothesis Testing
 * Consolidating Analytical Insights
 
-### Overview ofthe whole module Data Visualization & Storytelling
+### Overview ofthe whole Data Visualization & Storytelling
 
 * Intro to Data Visualization
 * Visual Design Basics & Tableau
