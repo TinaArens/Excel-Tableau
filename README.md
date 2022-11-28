@@ -26,7 +26,7 @@ Analysis has been conducted in Excel as well as using SQL in pgAdmin - Managemen
 * Statistical Hypothesis Testing
 * Consolidating Analytical Insights
 
-### Overview ofthe whole Data Visualization & Storytelling
+### Overview of the module Data Visualization & Storytelling
 
 * Intro to Data Visualization
 * Visual Design Basics & Tableau
